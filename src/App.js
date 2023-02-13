@@ -1,6 +1,17 @@
 import logo from './logo.svg';
 import './App.css';
-
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import {
+  faCircleQuestion,
+  faCoins,
+  faEarthAsia,
+  faEllipsisVertical,
+  faGear,
+  faKeyboard,
+  faSignOut,
+  faUser,
+  faSignIn,
+} from '@fortawesome/free-solid-svg-icons';
 function App() {
   return (
     <div className="App">
